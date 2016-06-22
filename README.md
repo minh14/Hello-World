@@ -1,2 +1,2 @@
 # Hello-World
-First Github repository
+Hello-World is the first program in computer science.   
